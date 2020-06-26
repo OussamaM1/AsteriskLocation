@@ -12,4 +12,6 @@ Must do to run the project :
 
 ![Interface-Dashboard](https://i.ibb.co/CsDfXWW/Menu.png)
 
+![](https://media.giphy.com/media/Pguh25GXuTs2jjH4sJ/giphy.gif)
+
 
